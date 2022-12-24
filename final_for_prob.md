@@ -68,9 +68,6 @@ $$
 再画出$\phi$5200次迭代后数据的直方图如下：
 ![](phi_hist.jpg)
 
-Final for Probability
-StuId: 2022103799
-StuName: 甘剑煌
 
 ```python
 # 算法部分
